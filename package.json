@@ -1,0 +1,26 @@
+{
+  "name": "descending-order-krampy",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krampy/descending-order-krampy.git"
+  },
+  "keywords": [
+    "descending-order-krampy"
+  ],
+  "author": "krampy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krampy/descending-order-krampy/issues"
+  },
+  "homepage": "https://github.com/krampy/descending-order-krampy#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "uuid": "^9.0.1"
+  }
+}
